@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MTG Security Professionel Plus 2018
+</name>
+</assembly>
+<members>
+<member name="T:MTG_Security_Professionel_Plus_2018.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MTG_Security_Professionel_Plus_2018.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MTG_Security_Professionel_Plus_2018.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MTG_Security_Professionel_Plus_2018.My.Resources.Resources.viruslistesi">
+<summary>
+  Looks up a localized string similar to alevir.exe 
+blss.exe
+cfd.exe
+gmt.exe
+iedriver.exe
+mscache.exe
+infwin.exe
+msvxd.exe
+mssys.exe
+rundll32.exe
+run32dll.exe
+start.exe
+save.exe
+svc.exe
+system.exe
+service.exe
+scrsvr.exe
+windows.exe
+winmain.exe
+msbb.exe 
+adaware.exe
+arr.exe
+bargains.exe
+bootconf.exe
+bundle.exe 
+bvt.exe
+cmd32.exe
+cmesys.exe
+divx.exe
+dllreg.exe
+gator.exe
+hbinst.exe
+ledll.exe
+Iexplorer.exe
+isass.exe 
+kazza.exe
+loader.exe
+md.exe
+msblast.exe
+msrexe.exe
+nsupdate.exe
+patch.exe
+rundll.exe
+scvhost [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

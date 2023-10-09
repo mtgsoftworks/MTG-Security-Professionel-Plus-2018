@@ -1,0 +1,90 @@
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.pdb
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form1.resources
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form2.resources
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Resources.resources
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbproj.GenerateResource.Cache
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form3.resources
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form4.resources
+C:\Users\MTG\AppData\Local\Temporary Projects\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form5.resources
+C:\Users\MTG\Documents\Visual Studio 2008\Projects\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\Documents\Visual Studio 2008\Projects\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\Documents\Visual Studio 2008\Projects\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.pdb
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form1.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form2.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form3.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form4.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form5.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form6.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Resources.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbproj.GenerateResource.Cache
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form7.resources
+C:\Users\MTG\Desktop\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form8.resources
+C:\Users\MTG\Desktop\Kısayollar\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+C:\Users\MTG\Desktop\Kısayollar\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+C:\Users\MTG\Desktop\Kısayollar\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.exe
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.pdb
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.xml
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\ResolveAssemblyReference.cache
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form1.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form2.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form3.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form4.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form5.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form6.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form7.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form8.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Resources.resources
+D:\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbproj.GenerateResource.Cache
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.exe
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.pdb
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.xml
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\ResolveAssemblyReference.cache
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form1.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form2.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form3.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form4.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form5.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form6.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form7.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form8.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Resources.resources
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbproj.GenerateResource.Cache
+D:\M.Taha\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form10.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.exe
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.xml
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.pdb
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.exe
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.pdb
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\bin\Debug\MTG Security Professionel Plus 2018.xml
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbprojAssemblyReference.cache
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form1.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form10.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form2.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form3.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form4.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form5.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form6.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form7.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Form8.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG_Security_Professionel_Plus_2018.Resources.resources
+D:\Taha'nın yazılımları\Visual Basic\MTG Security Professionel Plus 2018\MTG Security Professionel Plus 2018\obj\Debug\MTG Security Professionel Plus 2018.vbproj.GenerateResource.cache

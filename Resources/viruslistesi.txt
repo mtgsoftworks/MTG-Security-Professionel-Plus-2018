@@ -1,0 +1,3361 @@
+alevir.exe 
+blss.exe
+cfd.exe
+gmt.exe
+iedriver.exe
+mscache.exe
+infwin.exe
+msvxd.exe
+mssys.exe
+rundll32.exe
+run32dll.exe
+start.exe
+save.exe
+svc.exe
+system.exe
+service.exe
+scrsvr.exe
+windows.exe
+winmain.exe
+msbb.exe 
+adaware.exe
+arr.exe
+bargains.exe
+bootconf.exe
+bundle.exe 
+bvt.exe
+cmd32.exe
+cmesys.exe
+divx.exe
+dllreg.exe
+gator.exe
+hbinst.exe
+ledll.exe
+Iexplorer.exe
+isass.exe 
+kazza.exe
+loader.exe
+md.exe
+msblast.exe
+msrexe.exe
+nsupdate.exe
+patch.exe
+rundll.exe
+scvhost.exe
+svchosts.exe
+teekids.exe
+win32.exe
+winupdate.exe
+Svchosts.exe
+soohost.exe
+svchOst.exe
+svshost.exe
+Spool.exe
+Spollsv.exe
+spoolsrv.exe
+Tskmgr.exe
+Taskmon.exe
+Winlogin.exe
+RANDEX.E
+Isass.exe
+Lssas.exe
+W32.AGOBOT
+Lsas.exe
+Smsss.exe
+Sms.exe
+msmsg.exe
+Backdoor.prorat
+msmgs.exe
+$RECYCLE.BIN
+PUA.PCMechanic		
+PUA.FullDskFighter		
+PUA.Ransom		
+Trackware.TransitGuide		
+PUA.MagicPCCleaner		
+Hacktool.Produkey		
+PUA.PerfectOptimizer		
+PUA.RegistryDr		
+PUA.Winexe!g1		
+PUA.SmartPCFixer		
+PUA.DiskDefragFree		
+PUA.BoostMyPC		
+PUA.Winexe		
+PUA.Cyboscan		
+PUA.RadarSyncPCUpdate		
+PUA.SystemCleanup		
+Adware.RapidMediaCon		
+Adware.MixVideoPlay		
+Adware.MySafeSavings		
+PUA.PCRegBoost		
+PUA.RegistryScanner		
+PUA.DriverAgentPlus		
+PUA.UpdateStarDriver		
+PUA.RegUtility		
+PUA.DriverPack!g1		
+SecurityRisk.HidStart 		
+Adware.RunBooster		
+PUA.MicrofastPC		
+PUA.RegPowerCleaner		
+PUA.PCFixCleaner		
+PUA.SystemBoosterPro		
+PUA.RegistryCleaner		
+Selfhash		
+Netview		
+Hacktool.Psattack		
+PUA.PCCleanerPro		
+Adware.FreeVideoConvtr		
+PUA.BrowserSecurity		
+SONAR.RarSFX!PUA		
+Adware.SearchAssist		
+PUA.AdvPasswdManager		
+PUA.PCSuitePlus		
+PUA.MyCleanPC		
+Adware.IstartSurf!lnk		
+Adware.MusicDowector		
+PUA.SecureDownload		
+PUA.SlowPCfighter		
+PUA.RegistryBooster		
+PUA.PinnacleDriverUp		
+Adware.Vidsquare		
+Hacktool.Kms!g1		
+Hacktool.Kms		
+Adware.Browext!lnk		
+PUA.Keygen		
+Adware.Jogotempo		
+PUA.Yisou		
+PUA.SavingsWizard		
+PUA.Disttrack!sys		
+PUA.MaxPerforma		
+PUA.UniversalDriver		
+PUA.BestUninstallTool		
+PUA.KpZip		
+PUA.SystemKeeperPro		
+PUA.AntiMalwarePro		
+PUA.FixIt		
+PUA.FixRegCleaner 		
+Adware.BuzzIt		
+PUA.Zcashminer		
+Tartemi.B		
+Tartemi.A		
+Adware.CinemaPlus!g1		
+OSX.InstallMiez		
+Adware.KuwoMusic		
+PUA.Ghokswa		
+PUA.Browseforthecause		
+PUA.DownloadAssist		
+PUA.FunMoods		
+Adware.Searchlike		
+PUA.TurboCleanPC		
+WS.Reputation.2		
+Adware.Meitu		
+Adware.DestinyHoros		
+PUA.InstallMonetizer		
+PUA.InstallBrain		
+PUA.Sasquor		
+PUA.CloudSystemCare		
+Adware.Browext		
+Adware.GoSave		
+Adware.CornerSunshine		
+PUA.GoPCPro		
+PUA.BildDownloader		
+Adware.Social2Search		
+PUA.MediaCodec		
+SONAR.BC.PUA!g21		
+SONAR.BC.PUA!g20		
+SONAR.BC.PUA!g19		
+SONAR.BC.PUA!g18		
+SONAR.BC.PUA!g17		
+SONAR.BC.PUA!g16		
+SONAR.BC.PUA!g15		
+SONAR.BC.PUA!g14		
+SONAR.BC.PUA!g13		
+SONAR.BC.PUA!g12		
+SONAR.BC.PUA!g11		
+PUA.MPCCleaner		
+PUA.WinWrapper 		
+SecurityRisk.Capsferv		
+PUA.MalwareProtect		
+PUA.WebUpdater		
+Remacc.WinPCGuard		
+PUA.DriverFinder		
+PUA.iSharpRegCleaner		
+Adware.ZombieInvasion		
+Adware.SocialReviewer		
+PUA.DesktopWeatherSvc		
+PUA.GencoDownloads		
+SONAR.SuspBeh!gen67		
+PUA.ExpressFiles		
+PUA.iPumper		
+PUA.SavingsHero		
+PUA.SearchmeToolbar		
+PUA.Techsnab		
+Adware.BetterSurf		
+SecurityRisk.Gen2		
+Adware.Gen.3		
+Adware.Buscape		
+Adware.InstallMonster		
+SONAR.PUA!gen10		
+PUA.SecurityReviver		
+PUA.RegistryReviver		
+PUA.PCReviver		
+Adware.Crossid.B		
+PUA.Gyplyraminer		
+PUA.MyFasterPC		
+SONAR.PUA!gen12		
+SONAR.PUA!Opencandy		
+SONAR.PUA!BExt		
+SONAR.BC.Bitcoinmine1		
+PUA.DexonAgent		
+PUA.HomepageDefender		
+PUA.DriverReviver		
+SONAR.PUA!DriverPack		
+SONAR.BC.SysHealer!g2		
+SONAR.BC.SearchProt1		
+SONAR.BC.PUA!g9		
+SONAR.BC.PUA!g8		
+SONAR.BC.PUA!g10		
+PUA.ZooToolbar		
+PUA.Maltrec!eg1		
+SONAR.BC.MySafeSav!g1		
+OSX.JustCloud		
+PUA.Wedownload		
+PUA.PCAcceleratePro		
+PUA.Boostspeed		
+PUA.Yessearches		
+PUA.Classicmedia		
+PUA.Internetoptimizer		
+Adware.Trusteddownload		
+Adware.Getprivate		
+PUA.Dev360cleaner		
+Adware.Moviedea		
+PUA.ICLoader!g2		
+PUA.Yontoo.C!gen6		
+PUA.Maltrec!cg1		
+PUA.Advmaccleaner		
+PUA.Sweetim		
+PUA.Downloadopen		
+PUA.Drivereasy		
+PUA.Bestsocialfeed 		
+Adware.Savepathdeals		
+PUA.Pirrit		
+PUA.ICLoader!g3		
+SONAR.PUA!gen11		
+PUA.Suptab		
+SONAR.PUA!gen13		
+SONAR.BC.SysHealer!g1		
+PUA.Windapp		
+PUA.Reginout		
+PUA.Pckeeper		
+Adware.Globalupdate		
+Adware.Controlthis		
+SONAR.PUA!Traffic4		
+Adware.Maxdriver		
+Adware.Boxore		
+PUA.Wombat		
+Adware.Getaclip		
+PUA.ICLoader!g1		
+PUA.Sambamedia		
+Adware.BubbleDock		
+PUA.TweakBitPCCleanr		
+PUA.PCRepairKit 		
+PUA.PCSpeedupPro		
+PUA.SystemHealer		
+PUA.Yontoo.C!gen5		
+SecurityRisk.Zerghelp		
+SONAR.PUA!Vbates		
+SONAR.BC.PUA!g7		
+SONAR.BC.Amonetize!g1		
+Adware.WebSearcher		
+PUA.Yontoo.C!gen4		
+PUA.OptimumInstall!g4		
+Adware.AppShake		
+ER.Heur!gen1		
+SONAR.BC.WProtMgr!g1		
+SONAR.PUA!Traffic5		
+SONAR.PUA!Traffic3		
+SONAR.PUA!Traffic2		
+SONAR.BC.WinZipper!g2		
+SONAR.BC.WinZipper!g1		
+SONAR.BC.PUA!g6		
+SONAR.BC.PUA!g5		
+SONAR.BC.PUA!g3		
+SONAR.BC.Picexa!g1		
+SONAR.BC.PUA!g1		
+SONAR.BC.PUA!g2		
+SONAR.BC.MyWebSearch		
+SONAR.PUA!WinManProt2		
+SONAR.Injekt!gen1		
+PUA.Driverdoc		
+PUA.Outbrowse		
+PUA.PCPerformer		
+PUA.AppFindr		
+Hacktool.Powersploit		
+PUA.AdvancedPCCare		
+PUA.OneSystemCare		
+SONAR.PUA!DL3		
+SONAR.PUA!SuperOptmzr		
+SONAR.PUA!Wajam3		
+Adware.SmartWeb		
+PUA.NetZeroToolbar		
+Adware.Vonteera		
+Adware.IstartSurf		
+PUA.DriverUpdPro		
+PUA.Astromenda!gen3		
+PUA.Astromenda!gen2		
+PUA.Astromenda!gen1		
+PUA.SpeedFixTool		
+PUA.PlayThru		
+Adware.ContentDefend		
+Android.Moplus		
+SecurityRisk.KeeFarce		
+SONAR.PUA!CommToolbar		
+SONAR.PUA!Yontoo.C		
+Adware.SecurityUtilty		
+PUA.TweakbitDrvUpd		
+SONAR.DNSUnlock!gen1		
+SONAR.PUA!Traffic		
+OSX.CnetDownloader		
+Adware.eFast		
+SecurityRisk.Arbexec		
+Hacktool.SSHBruteforcer		
+PUA.TweakBitPCSpeedUp		
+IOS.Muda		
+PUA.Pdfforgetoolbar		
+PUA.IdeakeeUninstall		
+PUA.InstallCore		
+Adware.DNSUnlocker		
+PUA.DailyPCClean		
+Adware.DownloadMgrApp		
+SONAR.PUA!gen8		
+SONAR.PUA!Yontoo		
+Android.Mocore		
+PUA.ConsumerInput		
+Adware.AdvDriverUpd		
+PUA.DiskSpeedUp		
+PUA.OnePCOptimize		
+PUA.ICLoader		
+SONAR.PUA!DL2		
+Adware.GravitySpace		
+PUA.FastFileDownloader		
+Adware.AutoRefreshPlus		
+PUA.BabylonToolbar		
+SONAR.PUA!gen7		
+Adware.JollyWallet		
+Adware.CinemaPlus		
+PUA.Instally		
+Spyware.PCBoostrKlog		
+PUA.WebInstall		
+PUA.DLLFilesFixer		
+Adware.TicTa		
+Adware.InstallerSetup		
+PUA.FormatFactory		
+Adware.Simpliclean		
+Trackware.SaferBrowse		
+PUA.PCPrivacydock		
+Adware.ArcadeTwist		
+Adware.CloudScout		
+PUA.ChromeSpeedBooster		
+PUA.AdvSysOptimizer		
+PUA.DriverWhiz		
+PUA.Fixmypc		
+Hacktool.Crisis		
+SONAR.PUA!CytiWeb		
+SONAR.PUA!WinManProt		
+SONAR.PUA!RoundWorld		
+SONAR.PUA!DL		
+SONAR.PUA!Digihelp		
+SONAR.PUA!AceRace		
+SONAR.PUA!ClockHand		
+SONAR.PUA!AppEnable		
+SONAR.PUA!Wajam2		
+PUA.Getnow		
+Adware.TwkBtPCBooster		
+PUA.SwVerUpdtr!gen1		
+PUA.ReimageRepair!gen1		
+PUA.SearchProtect!gen2		
+PUA.DownloadSponsor		
+PUA.Imali		
+PUA.InstalleRex		
+PUA.PCHealthAdvisor!g1		
+PUA.OptimizerPro!gen1		
+PUA.OptimumInstall!g2		
+PUA.OptimumInstall!g1		
+PUA.MyPCBackup!gen1		
+SONAR.PUA!gen6		
+SONAR.PUA!gen5		
+Adware.Unico		
+PUA.SwiftPCOptimizer		
+PUA.Driverscanner		
+PUA.AdvSysProtector!g1		
+Adware.PassShow		
+Remacc.Ammyy		
+SONAR.PUA!gen4		
+PUA.BetterInstaller		
+Adware.Cafcon		
+Adware.Couponmarvel		
+Adware.Ebon		
+Adware.Injekt		
+Adware.BlocknSurf		
+PUA.Vittalia		
+Adware.PastaLeads		
+PUA.Yontoo.C!gen3		
+Adware.CrimeWatch		
+Adware.Mixxen		
+Adware.LuckyTab		
+PUA.DriverBooster		
+PUA.PCSpeedUp		
+PUA.Searchqu		
+PUA.DownloadAdmin		
+PUA.MagnoPlayer		
+PUA.ImproveSpeedPC		
+PUA.FindWide		
+PUA.FreeDWGViewer		
+PUA.RegServo		
+PUA.DriverNavigator		
+Android.Igexin		
+PUA.DriverAssist		
+Adware.FinanceAlert		
+Adware.Websteroids		
+PUA.TuneUpPro		
+PUA.MyStartToolbar		
+AdvancedFix		
+PUA.PCCleanerPlus 		
+PUA.DriverPack		
+PUA.OpenCandy		
+PUA.Vaudix		
+Android.Mesploit		
+PUA.Gen.6		
+PUA.Iminent		
+PUA.Yontoo.C!gen2		
+Adware.Funshion		
+PUA.TornTV		
+Adware.SuperFishRemove		
+PUA.TotalSystemCare		
+SONAR.PUA!ConInput		
+SONAR.PUA!AdvSysProt		
+SONAR.PUA!SwUpdater		
+SONAR.PUA!SpdUpMyPC		
+SONAR.PUA!StormAlert		
+SONAR.PUA!SpeedyPCPr		
+SONAR.PUA!SettManage		
+SONAR.PUA!SearchSafe		
+SONAR.PUA!RegCurePro		
+SONAR.PUA!SearchProt		
+SONAR.PUA!RegCleanPr		
+SONAR.PUA!PCSpdMaxm		
+SONAR.PUA!PCPSpeed		
+SONAR.PUA!PCHBoost		
+SONAR.PUA!Wajam		
+SONAR.PUA!VOPackage		
+SONAR.PUA!WinZipper		
+SONAR.PUA!PCFixSpeed		
+SONAR.PUA!PCHAdvisor		
+SONAR.PUA!OptimizePr		
+SONAR.PUA!Linkular		
+SONAR.PUA!Mezaa		
+SONAR.PUA!NewPlayer		
+SONAR.PUA!DWAlerts		
+SONAR.PUA!InboxToolb		
+SONAR.PUA!AppGraff		
+SONAR.PUA!Astromenda		
+SONAR.PUA!DefaultTab		
+SONAR.PUA!ContExplor		
+SONAR.PUA!AnyProtect		
+PUA.Binkiland		
+Adware.SuperFish		
+PUA.DoctorPC		
+Hacktool.Jailbreak		
+Adware.WebGuard		
+PUA.WinzipDriverUpdtr		
+Adware.FreeNew		
+PUA.InstaShare		
+SearchProtection		
+PUA.Desk365		
+Adware.PennyBee		
+Adware.AirInstaller		
+PUA.Couponbar		
+PUA.OpenSwUpdater		
+Adware.BlitzMediaPlayr		
+PUA.BeFrugalToolbar		
+PUA.XvirusPersonalGrd		
+PUA.SuperOptimizer		
+PUA.PCOptimizerPro		
+PUA.PCTechHotline		
+OSX.PUA.Gen		
+OSX.Adware.Gen		
+PUA.Gen.5		
+Adware.SlickSavings		
+PUA.ReimageRepair		
+PUA.Gen.4		
+PUA.Gen.3		
+Adware.JustPlugIt		
+PUA.ProPCCleaner		
+PUA.CommunityToolbar		
+PUA.PCSpeedClean		
+Adware.GeniusBox		
+PUA.Softonic		
+PUA.YouTubeDownGTApp		
+Adware.Rockettab		
+PUA.SpywareClear		
+Adware.Neurowise		
+Adware.TVWizard		
+Adware.Vitruvian		
+PUA.SystemOptimizerPro		
+Adware.Flipora		
+PUA.Smartbar		
+PUA.PCHealthAdvisor		
+PUA.RegCurePro		
+PUA.SpeedyPCPro		
+PUA.DefaultTab		
+PUA.Astromenda		
+Adware.VBates		
+PUA.WinZipper		
+PUA.SearchProtect!gen1		
+Adware.Tamindir		
+Adware.StormAlerts		
+Adware.GreatArcadeHits		
+Adware.Quiknowledge		
+Adware.ContentExplorer		
+PUA.AnyProtect		
+Adware.SaveSense		
+PUA.PerionInstaller		
+PUA.InstalKi		
+PUA.Wajam		
+Adware.WeatherAlerts		
+PUA.PCPowerSpeed		
+PUA.PCFixSpeed		
+PUA.Solimba		
+PUA.AppGraffiti		
+Adware.SoftwareUpdater		
+PUA.Linkular		
+SONAR.PUA!gen3		
+SONAR.PUA!gen2		
+Adware.Qwiklinx		
+Adware.Mezaa		
+PUA.PCHealthBoost		
+PUA.Maltrec.TS!g17		
+PUA.Maltrec.TS!g27		
+PUA.Maltrec.TS!g26		
+PUA.Maltrec.TS!g25		
+PUA.Maltrec.TS!g24		
+PUA.Maltrec.TS!g23		
+PUA.Maltrec.TS!g22		
+PUA.Maltrec.TS!g21		
+PUA.Maltrec.TS!g20		
+PUA.Maltrec.TS!g18		
+PUA.MyPCBackup		
+SONAR.PUA!gen1		
+PUA.VOPackage		
+PUA.Gen.2		
+PUA.ChangeDNS		
+PUA.Loadmoney		
+PUA.OptimumPcBoost		
+PUA.SpeedUpMyPc		
+PUA.Downloader		
+PUA.GorillaPrice		
+Genieo		
+PUA.Goobzo		
+SONAR.Crossid		
+PUA.RegCleanPro		
+OSX.SearchProtect		
+PUA.SearchProtect		
+PUA.InboxToolbar		
+PUA.AdvSystemProtector		
+PUA.SwVersionUpdater		
+PUA.OptimizerPro		
+Android.YahooAds		
+Android.AdMarvel		
+Android.YuMe		
+Ransom.Haknata		
+Ransom.Haknata!g1		
+Ransom.Wannacry!gen4		
+W32.Futurax		
+Ransom.Petya!g1		
+JS.Downloader!gen37		
+Exp.CVE-2017-8464		
+Exp.CVE-2017-8496		
+Exp.CVE-2017-8497		
+Exp.CVE-2017-8524		
+Ransom.Beeteeceeware		
+Bloodhound.MalMacro!g3		
+Backdoor.Pled		
+Backdoor.Croxbow		
+OSX.Macspy		
+Trojan.Gordry		
+OSX.Salgorea.B		
+Ranson.Gen!gm		
+SONAR.Wannacry!gen3		
+JS.Downloader!gen31		
+Trojan.Bleagle		
+Ransom.Cerber!g28		
+Trojan.Trickybot!gen2		
+SONAR.Veil!gen1		
+Ransom.Sorebrect		
+JS.Downloader!gen36		
+Trojan.Mdropper!gen10		
+W32.Ramnit!dr		
+Trojan.Latentbot		
+Ransom.Erebus		
+Backdoor.Industroyer		
+Android.WannaLocker		
+Android.Deeveemap		
+VBS.Heur.SNIC		
+JS.Heur.SNIC		
+SONAR.Wannacry!gen2		
+JS.Downloader!gen34		
+JS.Downloader!gen35		
+Packed.Generic.514		
+JS.Downloader!gen33		
+Infostealer.Bancos.BG		
+A and A		
+A2K.Damcor		
+A2M.Accessiv.A		
+A97M.Hamdam.A		
+A97M.Loaded		
+A97M.Walla		
+ABAP.Rivpas.A		
+ABC		
+Accept.3773		
+ACTS.LFM.926		
+ACTS.Spaceflash		
+Ada		
+Adolph		
+AdsAlert		
+AdShortcuts		
+ADT.1765		
+AdvancedCleaner		
+AdvancedFix		
+AdvancedXPFixer		
+AdvParentalControl		
+Adware.123Search		
+Adware.180Search		
+Adware.180Solutions		
+Adware.2Search		
+Adware.7000n		
+Adware.ABXToolbar		
+Adware.ActiveSearch		
+Adware.AdBars		
+Adware.AdBlaster		
+Adware.AdBlock		
+Adware.AdChannel19		
+Adware.AdDestroyer		
+Adware.AdGoblin		
+Adware.ADH 		
+Adware.Adhelper		
+Adware.Adlogix		
+Adware.Admass		
+Adware.Adpeak		
+Adware.Adpopup		
+Adware.AdRoar		
+Adware.AdServerNow		
+Adware.AdShooter		
+Adware.AdsInContext		
+Adware.Adstation		
+Adware.Adsubscribe		
+Adware.AdSupport		
+Adware.Adtest		
+Adware.Adtomi		
+Adware.Adultbox		
+Adware.AdultLinks		
+Adware.AdvDriverUpd		
+Adware.Advertbar		
+Adware.AdvertMen		
+Adware.Advision		
+Adware.AFAEnhance		
+Adware.Affilred		
+Adware.AirInstaller		
+Adware.AlibabaTB		
+Adware.AllSum		
+Adware.Annoyance		
+Adware.AntiSpamBoy		
+Adware.Aornum		
+Adware.Appoli		
+Adware.AppShake		
+Adware.Appztoolbar		
+Adware.ArcadeTwist		
+Adware.ArcadeWeb		
+Adware.ArcadeWeb!gen		
+Adware.Atlcontrol		
+Adware.AUNPS		
+Adware.Aureate		
+Adware.Aurora		
+Adware.AutoRefreshPlus		
+Adware.BarACE		
+Adware.BargainBuddy		
+Adware.BBSee		
+Adware.BDE		
+Adware.Begin2search		
+Adware.BestIdol		
+Adware.BestSearch		
+Adware.BeSys		
+Adware.BetterInternet		
+Adware.BetterSurf		
+Adware.BigTrafficNet		
+Adware.BL		
+Adware.BlazeFind		
+Adware.BlitzMediaPlayr		
+Adware.BlockChecker		
+Adware.BlocknSurf		
+Adware.Blowsearch		
+Adware.BMCentral		
+Adware.BocaiToolbar		
+Adware.Bonzi		
+Adware.Bookedspace		
+Adware.Borlan		
+Adware.Boxore		
+Adware.Broadcastpc		
+Adware.Browext		
+Adware.Browext!lnk		
+Adware.BrowserAid		
+Adware.BrowserPal		
+Adware.BrowserVillage		
+Adware.BubbleDock		
+Adware.Buddylinks		
+Adware.Bullseye		
+Adware.Buscape		
+Adware.BuzzIt		
+Adware.Cafcon		
+Adware.Caishow		
+Adware.CashBackBuddy		
+Adware.Cashfiesta		
+Adware.CashSaver		
+Adware.CasinoClient		
+Adware.Cax		
+Adware.CDT		
+Adware.CinemaPlus		
+Adware.CinemaPlus!g1		
+Adware.ClearSearch		
+Adware.Clearx		
+Adware.ClickAlchemy		
+Adware.ClickDLoader		
+Adware.ClickDLoader.B		
+Adware.Clickpotato		
+Adware.Clickpotato!gen		
+Adware.ClipGenie		
+Adware.Clkpotato!gen2		
+Adware.Clkpotato!gen3		
+Adware.Clkpotato!gen4		
+Adware.CloudScout		
+Adware.CommonName		
+Adware.Conspy		
+Adware.ContentDefend		
+Adware.ContentExplorer		
+Adware.ContextualToolbar		
+Adware.Controlthis		
+Adware.CoolSavings		
+Adware.CoolWebSearch		
+Adware.CornerSunshine		
+Adware.Couponmarvel		
+Adware.CPush		
+Adware.CramToolbar		
+Adware.CrimeWatch		
+Adware.Crossid		
+Adware.Crossid!gen1		
+Adware.Crossid.B		
+Adware.CrushSearch		
+Adware.CSearch		
+Adware.CtxPopup		
+Adware.CWSAlfaSearch		
+Adware.CWSConyc		
+Adware.CWSIEFeats		
+Adware.CWSMSConfd		
+Adware.CWSMSConfd.B		
+Adware.Cydoor		
+Adware.DailyToolbar		
+Adware.DailyWinner		
+Adware.Daosearch		
+Adware.DashBar		
+Adware.DateManager		
+Adware.Ddpop		
+Adware.DealHelper		
+Adware.DealPly		
+Adware.Dealply!gen1		
+Adware.Dealply!gen3		
+Adware.DelFin		
+Adware.Delta		
+Adware.DesktopMedia		
+Adware.DestinyHoros		
+Adware.Diginum		
+Adware.Director		
+Adware.DisableKey		
+Adware.DiscoveryLive		
+Adware.DNSUnlocker		
+Adware.DollarRevenue		
+Adware.DomaIQ		
+Adware.DoubleD		
+Adware.DownloadMgrApp		
+Adware.DownloadPlus		
+Adware.Downreceive		
+Adware.DreamAd		
+Adware.Drusearch		
+Adware.Dware		
+Adware.Dynamic		
+Adware.DynamicUpdater		
+Adware.EasySearch		
+Adware.EasyWWW		
+Adware.EBoard		
+Adware.Ebon		
+Adware.eFast		
+Adware.Egyrank		
+Adware.Elodu		
+Adware.Emusic		
+Adware.EnergyPlugin		
+Adware.EnhanceMSearch		
+Adware.Eorezo		
+Adware.ESDIexplorr		
+Adware.eSyndicate		
+Adware.EvidenceScan		
+Adware.Exactbar		
+Adware.Expand		
+Adware.Eziin		
+Adware.EZLife		
+Adware.EZSearch		
+Adware.EZSearch.B		
+Adware.EZToolbar		
+Adware.Ezula		
+Adware.Ezula Removal Tool		
+Adware.FakeMessage		
+Adware.Fapi		
+Adware.Fastfind		
+Adware.Fastfind.B		
+Adware.FastLook		
+Adware.Fastsearchweb		
+Adware.FastSeek		
+Adware.Fastwebfinder		
+Adware.FavBarCash		
+Adware.FavoriteMan		
+Adware.FCHelp		
+Adware.FFToolBar		
+Adware.FinanceAlert		
+Adware.FindemNow		
+Adware.FindLyrics		
+Adware.FindNavi		
+Adware.FindSpyware		
+Adware.Findwhatever		
+Adware.Fizzle		
+Adware.FlashEnhancer		
+Adware.Flipora		
+Adware.Flyswat		
+Adware.FOne		
+Adware.FreeAccessBar		
+Adware.FreeComm		
+Adware.FreeNew		
+Adware.FreeScratchWin		
+Adware.FreeVideoConvtr		
+Adware.Fresh		
+Adware.FriendsBlog		
+Adware.Funshion		
+Adware.Gabpath		
+Adware.GAIN		
+Adware.GatorClone		
+Adware.GatorEWallet		
+Adware.Gen.2		
+Adware.Gen.3		
+Adware.GeniusBox		
+Adware.Getaclip		
+Adware.Getprivate		
+Adware.Getup		
+Adware.Getup.B		
+Adware.Globalupdate		
+Adware.GoGoTools		
+Adware.GonnaSearch		
+Adware.GoonSquad		
+Adware.GoonSquad!gen1		
+Adware.GoSave		
+Adware.GotSmiley		
+Adware.GravitySpace		
+Adware.GreatArcadeHits		
+Adware.GreenIO		
+Adware.HalfLemon		
+Adware.HelpExpress		
+Adware.Henbang		
+Adware.HighTraffic		
+Adware.Hithopper		
+Adware.Hmtoolbar		
+Adware.Horoscope		
+Adware.Hotbar		
+Adware.HungryHands		
+Adware.HyperBar		
+Adware.IAGold		
+Adware.Idocha		
+Adware.Iebar		
+Adware.IEDriver		
+Adware.Iefeats		
+Adware.IEhlpr		
+Adware.IEHost		
+Adware.IEPageHelper		
+Adware.IEPlugin		
+Adware.IESearch		
+Adware.IGetNet		
+Adware.ILookup		
+Adware.Incredifind		
+Adware.InetAntispy		
+Adware.Inetex		
+Adware.Injekt		
+Adware.InstaFinder		
+Adware.InstallerSetup		
+Adware.InstallMonster		
+Adware.InstallPedia		
+Adware.InstallProvider		
+Adware.InstantAccess		
+Adware.Instdollars		
+Adware.IntDel		
+Adware.iPend		
+Adware.Ipinsight		
+Adware.IstartSurf		
+Adware.IstartSurf!lnk		
+Adware.Istbar		
+Adware.Iwantsearch		
+Adware.Jogotempo		
+Adware.JollyWallet		
+Adware.Jraun		
+Adware.JustFindIt		
+Adware.JustFindIt Removal Tool		
+Adware.JustPlugIt		
+Adware.Keenval		
+Adware.Kidda		
+Adware.Kiswin		
+Adware.Kuaiso		
+Adware.KuwoMusic		
+Adware.Lamhok		
+Adware.Latend		
+Adware.Linkgrabber		
+Adware.LinkMaker		
+Adware.Links		
+Adware.Littlehelper		
+Adware.Livechat		
+Adware.LizardBar		
+Adware.LoadEWXD		
+Adware.Locator		
+Adware.Look2Me		
+Adware.LookNSearch		
+Adware.Lop		
+Adware.LoveFreeGames		
+Adware.LSPP		
+Adware.LuckyTab		
+Adware.Magicads		
+Adware.Magoo		
+Adware.Mainpean		
+Adware.MainSearch		
+Adware.Maltrec.TS!g12		
+Adware.Maltrec.TS!g13		
+Adware.Maltrec.TS!g14		
+Adware.Maltrec.TS!g15		
+Adware.Maltrec.TS!g16		
+Adware.Maltrec.TS!g17		
+Adware.Maltrec.TS!g19		
+Adware.Maltrec.TS!g22		
+Adware.Maltrec.TS!g23		
+Adware.Maltrec.TS!g24		
+Adware.Maltrec.TS!g25		
+Adware.Maltrec.TS!g26		
+Adware.Maltrec.TS!g27		
+Adware.Maltrec.TS!g28		
+Adware.Maltrec.TS!g29		
+Adware.Maltrec.TS!g30		
+Adware.Maltrec.TS!g31		
+Adware.Maltrec.TS!g32		
+Adware.Maltrec.TS!g34		
+Adware.Maltrec.TS!g4		
+Adware.Maltrec.TS!g5		
+Adware.Maltrec.TS!g6		
+Adware.Margoc		
+Adware.Massfav		
+Adware.MatrixSearch		
+Adware.Maxdriver		
+Adware.MaxSearch		
+Adware.MaxSplit		
+Adware.MBKWbar		
+Adware.MDSSearchboost		
+Adware.Mediafinder		
+Adware.MediaInject		
+Adware.MediaLoad		
+Adware.MediaPass		
+Adware.MediaPlaceTV		
+Adware.MediaTicket		
+Adware.Medload		
+Adware.Meitu		
+Adware.Memini		
+Adware.MemoryMeter		
+Adware.Meplex		
+Adware.MessStopper		
+Adware.MetaSearch		
+Adware.Mezaa		
+Adware.Mirar		
+Adware.MixVideoPlay		
+Adware.Mixxen		
+Adware.MoeMoney		
+Adware.MoneyGainer		
+Adware.Moviedea		
+Adware.Movittone		
+Adware.Mpgcom		
+Adware.MSView		
+Adware.Multidropper		
+Adware.MusicDowector		
+Adware.MWSearch		
+Adware.MxliveMedia		
+Adware.MXTarget		
+Adware.MXTarget.B		
+Adware.Mycashbag		
+Adware.MyCentria		
+Adware.MyCustomIE		
+Adware.MySafeSavings		
+Adware.Nafaoz		
+Adware.NaughtyPops		
+Adware.Navihelper		
+Adware.NaviSearch		
+Adware.NDotNet		
+Adware.NeededWare		
+Adware.NetMedia		
+Adware.NetOptimizer		
+Adware.Netpal		
+Adware.Netword		
+Adware.Neurowise		
+Adware.NewAds		
+Adware.NewWeb		
+Adware.NowFind		
+Adware.Ntsearch		
+Adware.Oemji		
+Adware.OfferAgent		
+Adware.Okcashbackmall		
+Adware.OMI		
+Adware.Onban		
+Adware.OneStep		
+Adware.OpenShopper		
+Adware.OpenSite		
+Adware.Optserve		
+Adware.OrbitExplorer		
+Adware.OverPro		
+Adware.Owlforce		
+Adware.P2PNetworking		
+Adware.PassShow		
+Adware.PastaLeads		
+Adware.PennyBee		
+Adware.Peppi		
+Adware.PigSearch		
+Adware.PLook		
+Adware.PopAdStop		
+Adware.Popuppers		
+Adware.PortalScan		
+Adware.PowerScan		
+Adware.PPRich		
+Adware.PrecisionPop		
+Adware.PrecisionTime		
+Adware.PricePeep		
+Adware.ProfilinStylin		
+Adware.PSN		
+Adware.PStrip		
+Adware.PurityScan		
+Adware.PurityScan.C		
+Adware.Purityscan.D		
+Adware.Qidion		
+Adware.QoolAid		
+Adware.Quadro		
+Adware.QuickBrowser		
+Adware.Quiknowledge		
+Adware.Qwiklinx		
+Adware.Rabio		
+Adware.RapidMediaCon		
+Adware.RaxSearch		
+Adware.Raxums		
+Adware.RCPrograms		
+Adware.Redir		
+Adware.ReferAd		
+Adware.RegiFast		
+Adware.Replace		
+Adware.Revealing		
+Adware.Riversoft		
+Adware.Ro2cn		
+Adware.Rockettab		
+Adware.Roimoi		
+Adware.Roogoo		
+Adware.Rotator		
+Adware.Rotator!gen		
+Adware.Rotator!gen2		
+Adware.Rotator!gen3		
+Adware.Rugo		
+Adware.RunBooster		
+Adware.RXToolbar		
+Adware.Sa		
+Adware.SafeSearch		
+Adware.SafeTerra		
+Adware.Satbo		
+Adware.Savenow		
+Adware.Savepathdeals		
+Adware.SaveSense		
+Adware.SavingsHound		
+Adware.ScreenScenes		
+Adware.SearchAssist		
+Adware.SearchBarCash		
+Adware.SearchCentrix		
+Adware.SearchCounter		
+Adware.Searchdot		
+Adware.Searchexplorer		
+Adware.Searchforit		
+Adware.Searchlike		
+Adware.SearchMaid		
+Adware.SearchNet		
+Adware.SearchNew		
+Adware.SearchNugget		
+Adware.Searchq		
+Adware.SearchScout		
+Adware.SearchSeekFind		
+Adware.SearchSpace		
+Adware.Searchsquire		
+Adware.Searchtool		
+Adware.SearchWords		
+Adware.SecondThought		
+Adware.SecureServicePk		
+Adware.SecurityUtilty		
+Adware.SeekSeek		
+Adware.SeekSeek.B		
+Adware.SeeqBar		
+Adware.Shazaa		
+Adware.Sheldor		
+Adware.Shorty		
+Adware.ShowBehind		
+Adware.SideBar		
+Adware.SideBySide		
+Adware.SideFind		
+Adware.SideSearch		
+Adware.Simpliclean		
+Adware.Singalng		
+Adware.Singalng!g1		
+Adware.Slagent		
+Adware.SlickSavings		
+Adware.SmartAdware		
+Adware.SmartBrowser		
+Adware.SmartDove		
+Adware.SmartPops		
+Adware.SmartPops.B		
+Adware.Smartsearch		
+Adware.SmartWeb		
+Adware.Social2Search		
+Adware.SocialReviewer		
+Adware.SoftwareUpdater		
+Adware.SP2Update		
+Adware.Spedia		
+Adware.SpywareNuker		
+Adware.SQuery		
+Adware.Sqwire		
+Adware.StartPage		
+Adware.StartPage.B		
+Adware.StartPage.C		
+Adware.Starware		
+Adware.StatBlaster		
+Adware.STIEBar		
+Adware.StopPopupAdsNow		
+Adware.StormAlerts		
+Adware.Superbar		
+Adware.SuperFish		
+Adware.SuperFishRemove		
+Adware.Superiorads		
+Adware.Superlogy		
+Adware.Surebar		
+Adware.SurfAccuracy		
+Adware.Surfairy		
+Adware.SurfSideKick		
+Adware.SweetBar		
+Adware.SyncroAd		
+Adware.Syslibie		
+Adware.SystemProcess		
+Adware.Tamindir		
+Adware.TargetAd		
+Adware.TargetSaver		
+Adware.Tbon		
+Adware.Thumbsnatcher		
+Adware.TickerBar		
+Adware.TicTa		
+Adware.TidyNet		
+Adware.Ting		
+Adware.TMKSoft.XPlugin		
+Adware.Toolband		
+Adware.Topantispyware		
+Adware.TopAV		
+Adware.Topicks		
+Adware.TopMoxie		
+Adware.Topsearch		
+Adware.TopSearch.B		
+Adware.Trinity		
+Adware.TrueAds		
+Adware.Trusteddownload		
+Adware.TrustInBar		
+Adware.TrustInPopups		
+Adware.TSAdbot		
+Adware.TVWizard		
+Adware.Twaintec		
+Adware.TwkBtPCBooster		
+Adware.UCMore		
+Adware.Ulubione		
+Adware.Umaxsearch		
+Adware.Unico		
+Adware.UniversalTB		
+Adware.Uplink		
+Adware.UpSpiralBar		
+Adware.Vanish		
+Adware.VBates		
+Adware.VCatch		
+Adware.Ventures		
+Adware.Vidsquare		
+Adware.VirtualBouncer		
+Adware.VirtuMonde		
+Adware.Vitruvian		
+Adware.Vomba		
+Adware.Vomba		
+Adware.Vonteera		
+Adware.Vtlbar		
+Adware.WeatherAlerts		
+Adware.WeatherScope		
+Adware.WebBar		
+Adware.Webbuy		
+Adware.WebDir		
+Adware.Webentrance		
+Adware.WebexpEnhanced		
+Adware.Webext		
+Adware.WebGuard		
+Adware.Weblookup		
+Adware.Webmisc		
+Adware.Webprefix		
+Adware.WebRebates		
+Adware.Websearch		
+Adware.WebSearcher		
+Adware.WebSecureAlert		
+Adware.Websteroids		
+Adware.Webwise		
+Adware.WeirdOnTheWeb		
+Adware.Wengs		
+Adware.Whazit		
+Adware.WhenUSearchBar		
+Adware.WhileUSurf		
+Adware.WinAd		
+Adware.WinBo		
+Adware.Windupdates		
+Adware.WinFavorites		
+Adware.WinFavorites.B		
+Adware.WinFetch		
+Adware.WinLog		
+Adware.WinProtect		
+Adware.Winpup		
+Adware.Winshow		
+Adware.WinTaskAd		
+Adware.Wnad		
+Adware.WorldSearch		
+Adware.Wurldmedia		
+Adware.WWWBar		
+Adware.X10		
+Adware.YellowPages		
+Adware.YinStart		
+Adware.YourSiteBar		
+Adware.Yuupsearch		
+Adware.ZangoSearch		
+Adware.ZenoSearch		
+Adware.ZeroPopUp		
+Adware.Zhong		
+Adware.ZioCom		
+Adware.ZioCom.B		
+Adware.ZioCom.C		
+Adware.ZipClix		
+Adware.ZombieInvasion		
+Adware.ZQuest		
+Adware.Ztoolbar		
+Adware.Zwunzi 		
+Adware.Zwunzi!gen1		
+Adware.Zwunzi!gen2		
+Adware.Zwunzi!gen3		
+Adware2		
+AdwarePro		
+AdwarePro2Sqr		
+AdwareRemover		
+AdwareRemover2007		
+AdwareSheriff		
+AdwareSpy		
+AgentSpyware		
+AH.Farfli.0		
+AI		
+AIDS Virus Hoax		
+AIDS_II		
+AirCop.Standard		
+Akuku		
+Akuku.Cop		
+Alabama		
+Alad.2293		
+Albania.429		
+Albania.506		
+Albania.575		
+Albania.606		
+Alex.368		
+Alex.818		
+Alexander.1951		
+AlfaCleaner		
+Alfons.1344		
+Alicino.331		
+Allayed		
+ALS.Bursted.A		
+ALS.Bursted.B		
+ALS.Bursted.C		
+ALS.Jiwai		
+ALS.Kenilfe		
+ALS.Kenilfe!inf		
+AM.Accessiv.A		
+AM.Accessiv.B		
+AM.Tox.A		
+AM.Tox.B		
+Amanita.1151		
+Ambulance		
+AMIN		
+Amoeba		
+Ana.174		
+Anarchy		
+Android.361push		
+Android.Accstealer		
+Android.Acecard		
+Android.Ackposts		
+Android.Acnetdoor		
+Android.Acnetsteal		
+Android.Actech		
+Android.AdChina		
+Android.Adfonic		
+Android.AdInfo		
+Android.Adknowledge		
+Android.AdMarvel		
+Android.AdMob		
+Android.Adrd		
+Android.Adsms		
+Android.Aduru		
+Android.Adwhirl		
+Android.Adwlauncher		
+Android.Adwo		
+Android.Airad		
+Android.Airpush		
+Android.Alienspy		
+Android.AmazonAds		
+Android.Answerbot		
+Android.Antammi		
+Android.Apkmore		
+Android.Aplog		
+Android.Appenda		
+Android.Apperhand		
+Android.Appleservice		
+Android.AppLovin		
+Android.Arspam		
+Android.Aurecord		
+Android.Backapp		
+Android.Backdexer		
+Android.Backflash		
+Android.Backscript		
+Android.Badaccents		
+Android.Badpush		
+Android.Ballonpop		
+Android.Bankosy		
+Android.Bankun		
+Android.Basebridge		
+Android.Basedao		
+Android.Batterydoctor		
+Android.Beaglespy		
+Android.Becuro		
+Android.Beita		
+Android.Benews		
+Android.Bgserv		
+Android.Biigespy		
+Android.Bmaster		
+Android.Bossefiv		
+Android.Boxpush		
+Android.Burstly		
+Android.Buzzcity		
+Android.ByPush		
+Android.Cajino		
+Android.Casee		
+Android.Catchtoken		
+Android.Cauly		
+Android.Cellshark		
+Android.Centero		
+Android.Cepsohord		
+Android.Chuli		
+Android.Citmo		
+Android.Claco		
+Android.Clevernet		
+Android.Cnappbox		
+Android.Cobblerone		
+Android.Coolpaperleak		
+Android.Coolreaper		
+Android.Cosha		
+Android.Counterclank		
+Android.Crazymedia		
+Android.Crisis		
+Android.Crusewind		
+Android.Dandro		
+Android.Daoyoudao		
+Android.Deathring		
+Android.Deeveemap		
+Android.Dendoroid		
+Android.Dengaru		
+Android.Diandong		
+Android.Dianjin		
+Android.Dogowar		
+Android.Domob		
+Android.Dougalek		
+Android.Dowgin		
+Android.Droidsheep		
+Android.Dropdialer		
+Android.Dupvert		
+Android.Dynamicit		
+Android.Ecardgrabber		
+Android.Ecobatry		
+Android.Enesoluty		
+Android.Everbadge		
+Android.Ewalls		
+Android.Exprespam		
+Android.Fakealbums		
+Android.Fakeangry		
+Android.Fakeapp		
+Android.Fakebanco		
+Android.Fakebank		
+Android.Fakebank.B		
+Android.Fakebok		
+Android.Fakedaum		
+Android.Fakedefender		
+Android.Fakedefender.B		
+Android.Fakedown		
+Android.Fakeflash		
+Android.Fakegame		
+Android.Fakeguard		
+Android.Fakejob		
+Android.Fakekakao		
+Android.Fakelemon		
+Android.Fakelicense		
+Android.Fakelogin		
+Android.FakeLookout		
+Android.FakeMart		
+Android.Fakemini		
+Android.Fakemrat		
+Android.Fakeneflic		
+Android.Fakenotify		
+Android.Fakepatch		
+Android.Fakeplay		
+Android.Fakescarav		
+Android.Fakesecsuit		
+Android.Fakesucon		
+Android.Faketaobao		
+Android.Faketaobao.B		
+Android.Faketoken		
+Android.Fakeupdate		
+Android.Fakevoice		
+Android.Farmbaby		
+Android.Fauxtocopy		
+Android.Feiwo		
+Android.FindAndCall		
+Android.Finfish		
+Android.Fireleaker		
+Android.Fitikser		
+Android.Flexispy		
+Android.Fokonge		
+Android.FoncySMS		
+Android.Frogonal		
+Android.Ftad		
+Android.Funtasy		
+Android.GallMe		
+Android.Gamex		
+Android.Gappusin		
+Android.Gazon		
+Android.Geinimi		
+Android.Generisk		
+Android.Genheur		
+Android.Genpush		
+Android.GeoFake		
+Android.Geplook		
+Android.Getadpush		
+Android.Ggtracker		
+Android.Ghostpush		
+Android.Gmaster		
+Android.Godwon		
+Android.Golddream		
+Android.Goldeneagle		
+Android.Golocker		
+Android.Gomal		
+Android.Gonesixty		
+Android.Gonfu		
+Android.Gonfu.B		
+Android.Gonfu.C		
+Android.Gonfu.D		
+Android.Gooboot		
+Android.Goodadpush		
+Android.Greystripe		
+Android.Gugespy		
+Android.Gugespy.B		
+Android.Gupno		
+Android.Habey		
+Android.Handyclient		
+Android.Hehe		
+Android.Hesperbot		
+Android.Hippo		
+Android.Hippo.B		
+Android.IadPush		
+Android.iBanking		
+Android.Iconosis		
+Android.Iconosys		
+Android.Igexin		
+Android.ImAdPush		
+Android.InMobi		
+Android.Jifake		
+Android.Jollyserv		
+Android.Jsmshider		
+Android.Ju6		
+Android.Jumptap		
+Android.Jzmob		
+Android.Kabstamper		
+Android.Kemoge		
+Android.Kidlogger		
+Android.Kielog		
+Android.Kituri		
+Android.Kranxpay		
+Android.Krysanec		
+Android.Kuaidian360		
+Android.Kuguo		
+Android.Lastacloud		
+Android.Laucassspy		
+Android.Lifemonspy		
+Android.Lightdd		
+Android.Loaderpush		
+Android.Locaspy		
+Android.Lockdroid.E		
+Android.Lockdroid.F		
+Android.Lockdroid.G		
+Android.Lockdroid.H		
+Android.Lockscreen		
+Android.LogiaAd		
+Android.Loicdos		
+Android.Loozfon		
+Android.Lotoor		
+Android.Lovespy		
+Android.Lovetrap		
+Android.Luckycat		
+Android.Machinleak		
+Android.Maistealer		
+Android.Malapp		
+Android.Malebook		
+Android.Malhome		
+Android.Malminer		
+Android.Mania		
+Android.Maxit		
+Android.MdotM		
+Android.Medialets		
+Android.Meshidden		
+Android.Mesploit		
+Android.Mesprank		
+Android.Meswatcherbox		
+Android.Miji		
+Android.Milipnot		
+Android.MillennialMedia		
+Android.Mitcad		
+Android.MobClix		
+Android.MobFox		
+Android.Mobidisplay		
+Android.Mobigapp		
+Android.MobileBackup		
+Android.Mobilespy		
+Android.Mobiletx		
+Android.Mobinaspy		
+Android.Mobus		
+Android.MobWin		
+Android.Mocore		
+Android.Moghava		
+Android.Momark		
+Android.Monitorello		
+Android.Moolah		
+Android.Moplus		
+Android.MoPub		
+Android.Morepaks		
+Android.Nandrobox		
+Android.Netisend		
+Android.Nickispy		
+Android.Notcompatible		
+Android.Nuhaz		
+Android.Nyearleaker		
+Android.Obad		
+Android.Oneclickfraud		
+Android.Opfake		
+Android.Opfake.B		
+Android.Ozotshielder		
+Android.Pafloat		
+Android.PandaAds		
+Android.Pandbot		
+Android.Pdaspy		
+Android.Penetho		
+Android.Perkel		
+Android.Phimdropper		
+Android.Phospy		
+Android.Piddialer		
+Android.Pikspam		
+Android.Pincer		
+Android.Pirator		
+Android.Pjapps		
+Android.Pjapps.B		
+Android.Pletora		
+Android.Poisoncake		
+Android.Pontiflex		
+Android.Positmob		
+Android.Premiumtext		
+Android.Pris		
+Android.Qdplugin		
+Android.Qicsomos		
+Android.Qitmo		
+Android.Rabbhome		
+Android.Repane		
+Android.Reputation.1		
+Android.Reputation.2		
+Android.Reputation.3		
+Android.RevMob		
+Android.Roidsec		
+Android.Rootcager		
+Android.Rootnik		
+Android.Rufraud		
+Android.Rusms		
+Android.Samsapo		
+Android.Sandorat		
+Android.Sberick		
+Android.Scartibro		
+Android.Scipiex		
+Android.Selfmite		
+Android.Selfmite.B		
+Android.SellARing		
+Android.SendDroid		
+Android.Simhosy		
+Android.Simplocker		
+Android.Simplocker.B		
+Android.Skullkey		
+Android.Smaato		
+Android.Smbcheck		
+Android.Smsblocker		
+Android.Smsbomber		
+Android.Smslink		
+Android.Smspacem		
+Android.SMSReplicator		
+Android.Smssniffer		
+Android.Smsstealer		
+Android.Smstibook		
+Android.Smszombie		
+Android.Snadapps		
+Android.Sockrat		
+Android.Sofacy		
+Android.Sosceo		
+Android.Spitmo		
+Android.Spitmo.B		
+Android.Spyagent		
+Android.Spybubble		
+Android.Spydafon		
+Android.Spymple		
+Android.Spyoo		
+Android.Spytekcell		
+Android.Spytrack		
+Android.Spywaller		
+Android.Stealthgenie		
+Android.Steek		
+Android.Stels		
+Android.Stiniter		
+Android.Sumzand		
+Android.Sysecsms		
+Android.Tanci		
+Android.Tapjoy		
+Android.Tapsnake		
+Android.Tascudap		
+Android.Teelog		
+Android.Temai		
+Android.Tetus		
+Android.Tgpush		
+Android.Tigerbot		
+Android.Tonclank		
+Android.Trogle		
+Android.Twikabot		
+Android.Uapush		
+Android.Umeng		
+Android.Updtbot		
+Android.Upush		
+Android.Uracto		
+Android.Uranico		
+Android.Usbcleaver		
+Android.Utchi		
+Android.Uten		
+Android.Uupay		
+Android.Uxipp		
+Android.Vdloader		
+Android.VDopia		
+Android.Vibleaker		
+Android.Virusshield		
+Android.VServ		
+Android.Walkinwat		
+Android.WannaLocker		
+Android.Waps		
+Android.Waren		
+Android.Windseeker		
+Android.Wiyun		
+Android.Wooboo		
+Android.Wqmobile		
+Android.YahooAds		
+Android.Yatoot		
+Android.Yinhan		
+Android.Youmi		
+Android.YuMe		
+Android.Zeahache		
+Android.ZertSecurity		
+Android.ZestAdz		
+Android.Zeusmitmo		
+AndroidOS.FakePlayer		
+AndroidOS.FakePlayer.B		
+Andromeda		
+AndromedaAV		
+Andryushka		
+Angarsk		
+AngryIPscanner		
+Anna		
+Anthrax		
+ANTI		
+Anti-Pascal II.400		
+AntiAVP.819		
+Antibody		
+AntiCAD		
+Antichrist Hoax		
+AntiCMOS		
+AntiEXE		
+AntiPascal.1101		
+AntiPascal.408		
+AntiSpyBoss		
+AntiSpyCheck		
+AntispyDeluxe		
+AntiSpyGuard		
+AntiSpyKit		
+AntiSpyPro		
+AntispySpider		
+AntiSpywareExpert		
+AntiSpywareGuard		
+AntiSpywareMaster		
+AntispywareProtector		
+AntispywareProXP		
+AntiSpywareShield		
+AntispywareSoldier		
+AntiSpywareSuite		
+AntiSpyZone		
+AntiToolbar		
+Antivermins		
+AntiVirGear		
+AntiVirProtect		
+AntiVirus2008		
+AntiVirus2009		
+AntiVirus2010		
+Antivirus360		
+AntivirusAgentPro		
+AntiVirusAndSpyware		
+AntiVirusAndTrojan		
+AntiVirusDemoFraud		
+AntivirusDoktor2009		
+AntivirusdotNET		
+AntivirusFraud		
+AntiVirusGold		
+AntivirusPlasma		
+AntiVirusPro		
+AntivirusSystem2011		
+AntivirusSystemPro		
+AntiVirusXP2008		
+AntiWorm2008		
+AOD.385.B		
+AOL and Intel Hoax		
+AOL Flashing 'IM'		
+AOL Gold Trojan		
+AOL RIOT 2 Virus Hoax		
+AOL Year 2000 Update Hoax		
+AOL.EXE Hoax		
+AOL.Infostealer.32512		
+AOL.Infostealer.Trojan		
+AOL.Trojan		
+AOL4Free Trojan Horse		
+AOL4Free Virus Hoax		
+AplS.Saprilt.A		
+AplS.Saprilt.B		
+ARCV.330		
+Arianna.3375		
+Ariskkey		
+Arriba.A		
+AT.140		
+Atomic		
+AutoStart 9805		
+Avalon.814		
+AVCare		
+Avispa		
+Avkiller.Trojan		
+AVSecuritySuite		
+AVSystemCare		
+Awareness Virus Hoax		
+Awola		
+100 Percent Anti-Spyware.exe
+1-2-3 Spyware Free.exe
+1 Click Spy Clean.exe
+#1 Spyware Killer.exe
+1stAntiVirus.exe
+2004 Adware/Spyware Remover & Blocker.exe
+about :blank 2005.exe
+AdDriller.exe
+Ad-Eliminator.exe
+AdProtector.exe
+Ad-Purge Adware & Spyware Remover.exe
+Ads Alert.exe
+ADS Adware Remover.exe
+Advanced Spyware Remover.exe
+AdwareBazooka.exe
+Adware Cops.exe
+AdwareDelete.exe
+AdwareDeluxe.exe
+Adware Filter.exe
+(PCSafe Security Center).exe
+Adware Finder.exe
+Adware Hitman.exe
+AdwareHunter.exe
+Adware-Nuker.exe
+AdwarePatrol.exe
+AdwarePro.exe
+AdwarePunisher.exe
+AdwareRemover.exe
+AdwareSafe.exe
+AdwareSafety.exe
+Adware Sheriff.exe
+AdwareSpy.exe
+AdWare SpyWare Blocker & Removal.exe
+Adware & Spyware Firewall.exe
+Adware/Spyware Remover.exe
+Adware Striker.exe
+AdwareTools.exe
+AdwareX.exe
+AdwareX Eliminator.exe
+Ad-Where 2005.exe
+Agent Spyware.exe
+AGuardDog Adware/Spyware Remover.exe
+AlertSpy.exe
+AlfaCleaner.exe
+Anti-Spyware Blocker.exe
+AntiSpyware Soldier.exe
+Antivirus Email.exe
+AntiVirus Gold /.ex
+AntiVirus Golden.exe
+Anti Virus Pro.ex
+Anti-Virus&Spyware.exe
+ArmorWall.exe
+BestGuardPlatinum.exe
+Botsquash.exe
+BPS Spyware & Adware Remover.exe
+Brave Sentry.exe
+CheckFlow CheckSpy & Anti Spyware 2005.exe
+CoffeeCup Spyware Remover.exe
+Consumer Identity.exe
+CyberDefender.exe
+Easy Erase Spyware Remover.exe
+Easy SpyRemover.exe
+Easy Spyware Killer.exe
+Elimiware.exe
+Emco Malware Bouncer.exe
+ETD Security Scanner.exe
+Flobo Free Anti Spyware Clean.exe
+Freeze.com AntiSpyware.exe
+Froggie Scan.exe
+GoodbyeSpy.exe
+GuardBar.exe
+HitVirus.exe
+IC Spyware Scanner.exe
+Intelligent Spyware Cleaner.exe
+InternetAntiSpy.exe
+Internet Cleanup.exe
+InternetShield.exe
+iSpyKiller.exe
+JC Spyware Remover & Adware Killer.exe
+KaZaaP.exe
+KillAllSpyware.exe
+KillAndClean.exe
+KillSpy.exe
+MalwareScanner.exe
+MalwareWipe.exe
+MalWhere.exe
+MaxNetShield (MNS Spyware Remover & History Eraser).exe
+Max Privacy Protector.exe
+MicroAntivirus.exe
+MyNetProtector.exe
+MyPCTuneUp.exe
+MySpyFreePC.exe
+NetSpyProtector.exe
+NoSpyX.exe
+Oxford Spyware Remover.exe
+PAL Emergency Response.exe
+PAL Spyware Remover.exe
+PC AdWare SpyWare Removal.ex
+PCArmor.exe
+PC Health Plan.exe
+pcOrion.exe
+PestBot.exe
+PestProtector.exe
+PestTrap.exe
+PestWiper.exe
+Privacy Champion.exe
+Privacy Crusader.exe
+Privacy Defender.exe
+Privacy Tools 2004.exe
+Protect Your Identity.exe
+PSGuard.exe
+PurityScan /.exe
+PuritySweep.exe
+QuickCleaner.exe
+RazeSpyware.exe
+Real AdWareRemoverGold.exe
+RegFreeze.exe
+RemedyAntiSpy.exe
+RemoveIT Pro.exe
+Safe & Clean (Scan & Clean).exe
+SafeWebSurfer.exe
+SamuraiSpy.exe
+Scan & Repair Utilities 2006.exe
+ScanSpyware.exe
+Scumware-Remover.exe
+SecureMyPC.exe
+Security iGuard.exe
+SlimShield.exe
+SmartSecurity.exe
+Spy-Ad Exterminator Pro.exe
+SpyAdvanced.exe
+Spy Annihilator.exe
+SpyAssassin.exe
+SpyAssault.exe
+SpyAxe.exe
+SpyBan.exe
+SpyBeware.exe
+SpyBlast.exe
+Spy-Block.exe
+SpyBlocs/eBlocs.com.exe
+SpyBouncer.exe
+SpyBurn.exe
+SpyClean.exe
+SpyCleaner.exe
+SpyContra.exe
+Spy-Control.exe
+Spy Crushe.exe
+SpyCut.ex
+SpyDeface.exe
+SpyDeleter.exe
+SpyDemolisher.exe
+SpyDestroy Pro.exe
+Spy Detector.exe
+SpyEliminator.exe
+SpyFalcon.exe
+SpyFerret.exe
+SpyFighter.exe
+SpyFirewall.exe
+SpyGuardian Pro.exe
+SpyHeal.exe
+SpyiBlock.exe
+SpyiKiller.exe
+Spyinator.exe
+Spy-Kill.exe
+SpyKiller.exe
+SpyKiller 2005.exe
+SpyKillerPro.exe
+SpyLax.exe
+SpyOnThis.exe
+SpyPry.exe
+Spy Reaper.exe
+SpyRemover.exe
+SpySheriff.exe
+SpyShield.exe
+Spy-Shield.exe
+Spy Sniper.exe
+Spy Sniper Pro.exe
+SpySpotter.exe
+Spy Stalker.exe
+Spy Striker.exe
+SpyToaster.exe
+SpyTrooper.exe
+SpyVest.exe
+SpyViper.exe
+Spyware & Adware Removal.exe
+Spyware Annihilator.exe
+SpywareAssassin.exe
+SpywareAvenger.exe
+SpywareBeGone.exe
+Spyware B1aster.exe
+Spyware Bomber.exe
+SpywareBot.exe
+SpywareCleaner.exe
+Spyware Cleaner.exe
+Spyware Cleaner & Pop-Up Blocker.exe
+Spyware Cops.exe
+Spyware C.O.P. .exe
+SpywareCrusher.exe
+Spyware Defense.exe
+Spyware Destroyer.exe
+Spyware Detector.exe
+Spyware Disinfector.exe
+SpywareHospital.exe
+SpywareHound.exe
+Spyware Immobilizer.exe
+SpywareKill.exe
+SpywareKilla.exe
+Spyware Medic.exe
+SpywareNo!.exe
+Spyware & Pop-Up Utility.exe
+Spyware & Pest Remover.exe
+Spyware Protection Pro.exe
+Spyware Quake.exe
+SpwareRemoval.exe
+Spyware Removal Wizard.exe
+Spyware Remover.exe
+Spyware Remover.exe
+Spyware Remover.exe
+SpywareRemover.exe
+SpywareRemover.exe
+Spyware Scrapper.exe
+Spyware Sheriff.exe
+Spyware Shield.exe
+Spyware Slayer.exe
+Spyware Sledgehammer.exe
+Spyware Snooper.exe
+Spyware Soft Stop.exe
+Spyware Stormer.exe
+SpywareStrike.exe
+Spyware Striker Pro.exe
+Spyware-Stop.exe
+Spyware Suite 2005.exe
+SpywareTek / Spyware Removal System.exe
+ Spyware Terminator.exe
+SpywareThis.exe
+Spyware Vanisher.exe
+Spyware Wizard.exe
+SpywareXP.exe
+SpywareZapper.exe
+SpyWiper.exe
+StopGuard.exe
+StopItBlockIt 2005.exe
+Super Spyware Remover.exe
+System Detective.exe
+SystemStable.exe
+TeoSoft Anti-Spyware.exe
+Terminexor.exe
+The Adware Hunter.exe
+The SpyGuard.exe
+The Spyware Detective.exe
+TheSpywareKiller.exe
+The Spyware Shield.exe
+The Web Shield.exe
+Titan AntiSpyware.exe
+TitanShield AntiSpyware.exe
+Top10Reviews SpyScan.exe
+True Sword.exe
+ZoneProtect AntiSpyware.exe
+TrueWatch.exe
+Trust Cleaner.exe
+TZ Spyware Adware Remover.exe
+UControl.exe
+Ultimate Cleaner.exe
+Ultimate Defender.exe
+Ultimate Spyware-Adware Remover.exe
+UnSpyPC.exe
+VBouncer/AdDestroyer.exe
+VirusBlast.exe
+VirusGuard.exe
+VirusRescue.exe
+WareOut Spyware Remover.exe
+WebSafe Spyware Secure.exe
+WinAntiSpy 2005.exe
+WinAntiSpyware 2006.exe
+WinAntiVirus 2006.exe
+Wincleaner AntiSpyware.exe
+Winhound Spyware Remover.exe
+Winkeeper.exe
+WinSOS.exe
+WorldAntiSpy.exe
+X-Con Spyware Destroyer.exe
+X-Spyware.exe
+Xmembytes AntiSpyware.exe
+Xspyware.exe
+XSRemover.exe
+Adware.Hotbar.1
+Trojan.FakeAlert.CJM
+Java.Trojan.Downloader.OpenConnection.Al
+Trojan.AutorunINF.Gen
+Java:Agent-DU [Expl]
+HTML:Downloader-AU [Expl]
+Boot.exe 
+SE2010.exe 
+WSscript.exe 
+WinForm.exe 
+activexdebugger32.exe 
+ahnsbsb.exe 
+amo.exe 
+amva.exe 
+amvo.exe 
+antivirusxp.exe 
+aspimgr.exe 
+autorun.exe 
+autorun.vbs.exe 
+avpo.exe 
+bittorrent.exe 
+command.exe 
+copy.exe 
+fooool.exe 
+herss.exe 
+host.exe 
+ie.exe 
+is2010.exe 
+kamsoft.exe 
+kavo0.exe 
+kxvo.exe 
+meex.exe 
+next1.exe 
+next2.exe 
+next3.exe 
+nhbivui.exe 
+nodqq.exe 
+olhrwef.exe 
+oufddh.exe 
+quit.exe 
+r6r.exe 
+recycler.exe 
+semo2x.exe 
+sxs.exe 
+tavo.exe 
+temp0.exe 
+temp1.exe 
+temp2.exe 
+winfile.exe 
+xnxlufi.exe 
+yyjnldu.exe 
+A.O.M. Trojan
+A97M.Accessiv.D
+A97M.Accrest
+A97M.AMG.Kit
+A97M.Amg.Trojan
+A97M.Nitro.A
+A97M.Poison
+A97M.Sonic
+AA.716
+AAA.807
+Aardwolf.448
+AAV.8824
+Abaddon Trojan
+Abal (1)
+Abal (2)
+ABAP.Delins
+ABAP.Dosjob
+ABAP.Sycode
+Abba.410
+Abbas.1100
+Abbas.1320
+Abbas.5660
+ABCD (b)
+Abraxas.1304
+Abraxas.1518
+Abraxas.458
+Abraxas.458 (1)
+Absturz.Trojan
+Absturz.Trojan (2)
+Absys
+ABT.397
+ABX
+ACAD.Pobresito
+Accept.3619
+Accept.3773 (Gen1)
+Account_Avenger.873
+Acdc.494
+Acdc.499
+Ace.1872
+ACG
+ACG.B
+Ache.338
+Acid Rain Trojan (1)
+Acid Rain Trojan (2)
+Acid.603
+Acid.670
+AcidWarp
+Acula.2024
+Acurev.272
+Acurev.536
+Acurev.666
+Acurev.666 (1)
+Acurev.666 (2)
+Acvt (Gen1)
+Acy.790
+AD.206
+AD79Stip
+ADAF.542
+Adeni.Trojan
+ADI.1431
+Adi.poly
+Adi_Pop.485
+Adif.732
+Adin.1488
+Adin.3026 (1)
+Adin.3026 (2)
+Adin.3026 (3)
+Adin.3026 (4)
+Adindi.1976
+Adios.601
+Adit.1210
+Adolf (1)
+Adolf (2)
+Adreim.484
+Adrenalin
+Adrenaline.552
+Adri.886
+ADsmile.1113
+Aduj.1406
+Adv.147.Worm
+Advice.4105
+Adware.ADDeliverer
+Adware.ADH
+Adware.Admagic
+Adware.AdPutHelper
+Adware.Binet.DL
+Adware.Cacb
+Adware.CashOn
+Adware.Cleanurl
+Adware.ContentDefend
+Adware.Controlthis
+Adware.ConvrtFilesFree
+Adware.Coolpp
+Adware.CouponAge
+Adware.CrimeWatch
+Adware.Cygo
+Adware.DealPly!gen2
+Adware.DropSpam
+Adware.Ebon
+Adware.Edea
+Adware.Eurobarre
+Adware.Favorit
+Adware.FFinder
+Adware.FirstClick
+Adware.Gen
+Adware.Happy888
+Adware.Hotbar!gen
+Adware.Iefeats!dr
+Adware.Infokey
+Adware.InstantBuzz
+Adware.IntelliDownload
+Adware.ISearchHelpW
+Adware.ISMonitor
+Adware.KMGuide
+Adware.Kraddare
+Adware.KuwoMusic
+Adware.LampUpdate
+Adware.Lollipop
+Adware.Loudmo
+Adware.MidADdle
+Adware.MoreResults
+Adware.Opencash
+Adware.PassShow
+Adware.Psic
+Adware.Ramdud
+Adware.Rcash
+Adware.RollAround
+Adware.Searchthisbiz
+Adware.SmartAllYes
+Adware.Soduisearch
+Adware.Sponsorbox
+Adware.SysAI
+Adware.Tginfo
+Adware.Toolgate
+Adware.Unknown
+Adware.WhenU
+Adware.WhistleHelp
+Adware.XPassmanager
+Adware3
+AdWhere2006
+AEP.626
+Aforia.656
+Aforia.656 (x)
+AFV.517
+AGA.3000
+AGA.3000 (1)
+AGA.3000 (2)
+AGA.3000 (3)
+Agen.6500
+Agen.6500(2)
+Agen.6500(3)
+Agena
+Agent.698
+Agent.698 Gen(1)
+AH.218
+AH.236
+AH.Lop.0
+AH.Lop.1
+AH.Lop.2
+AH.Lop.3
+Ahav.336
+Ahav.337
+Ahav.377
+Ahav.379
+Ahav.379.B
+Ahav.383
+Ahav.385
+AI (2)
+AI22.1659
+AIH.823
+Ailbone.1536
+Ailbone.1536 (b)
+AIMpws.Trojan
+Air.2919.ow
+Air.2919.ow (2)
+Air.2919.ow (3)
+Air.2919.ow (4)
+Air.2919.ow (5)
+Air_Raid.1728 (Gen1)
+Air_Raid.1730 (1)
+Air_Raid.1730 (2)
+Air_Raid.1730 (Gen1)
+Air_Raid.330
+AirCop.1/3 Dropper
+AirCop.4 Dropper
+AirCop.B
+Airdef.999
+Airwalker.300
+Airwalker.303
+Airwalker.384
+Airwalker.385
+Airwalker.386
+Aiw.572
+Aiwed.852
+Ajax.145
+AKE.1392
+Akill.1027
+Akill.858
+Akuku.1 (x)
+Akuku.886
+Akuku.886.E
+Akuku.889.E
+Akuku.889.F
+Akuku.Cop (x)
+Ala-eh.2279
+Ala-Eh.3163
+Alabama.B (1)
+Alabama.B (2)
+Alabama.B (Gen1)
+Alaeh.3161
+Alaper.b.ow
+Alaper.C.ow
+Alaper.ow
+Alar.4265
+Alar.4270 (b)
+Alar.4873
+Alar.4873(b)
+Alar.5088
+Alar.5088 (b)
+Alar.6047
+Alar.mp.4270
+Albania.506.C
+Albanian
+Ale.1911
+ALEV.2349
+Alex & Solo.512
+Alex.1843
+Alex.598
+Alex.599
+Alexander.2104
+Alexe.1287
+Alfa.1223
+Alfa.3072
+Alfons.1344 (x)
+Alfons.1536
+Alfons.1536 (x)
+Algerian
+Alho.676
+Alia.1023 (1)
+Alia.1023 (2)
+Alia.1023 (3)
+Alia.1300
+Alice.513
+Alicia.624
+Alicia.6585
+Alicia.6585 (1)
+Alicia.a
+Alicia.arj
+Alicia.B
+Alicino.1361
+Alien.1356
+Alien.1976
+Alien.259
+Alien.298
+Alien.480
+Alien.733
+Alive.2000
+Alive.2283
+Alive.2340 (1)
+Alive.2340 (2)
+Alive.2340 (3)
+Alive.2340 (4)
+Alive.3400
+Alive.3800
+Alive.4000
+Alive.4608
+Alive.4608.D
+Alla.1325
+ALLA.1407
+Alladin.1827
+Alph.1121
+Alpha
+Alpha.1555
+Alpha.2000
+alpha.447
+Alphastrike
+Alphavirus.1628
+Already.71
+ALS.Kenilfe!inf1
+ALSetup.14190
+ALSetup.14190 (2)
+ALSetup.14190 (3)
+Altx.1264
+Altx.1264 (2)
+Altx.1264 (3)
+Altx.1264 (4)
+Altx.1264 (x)
+Altx.1264 (x)(2)
+Altx.1264 (x)(3)
+Altx.1309
+Altx.1309 (2)
+Altx.1309 (3)
+Altx.1309 (4)
+Altx.1309 (x)
+Altx.1309 (x)(2)
+Altx.1309 (x)(3)
+Altx.1751
+Altx.1751 (2)
+Altx.1751 (3)
+Altx.1751 (4)
+Altx.1751 (x)
+Altx.1751 (x)(2)
+Altx.1751 (x)(3)
+Altx.2283
+Altx.2297
+Altx.2606
+Altx.2663
+Altx.2675
+Altx.2748
+Altx.2889
+Altx.2900
+Altx.Trojan
+Am
+AM.Accessiv.C
+AM.Jaring.intended
+AM.Tox.D
+Aman
+Amanita.1151 (x)
+Amazon.468
+Amazon.468 (x)
+Amazon.479
+Amazon.479 (x)
+Amazon.500
+Amazon.500 (x)
+Amber.Pun.3000
+Ambulance (d)
+Ambulance.2124
+Ambulance.2124 (x)
+Ambulance.795
+AMD.3948
+AMD.3948 (x)
+AMIN (x)
+Amoeba.1392
+Amoeba.A
+Amoeba.B
+Amt.3000
+Amt.4000
+Amt.4000 (Gen1)
+Amuck.3184
+Amuck.3184 (2)
+Amuck.3184 (X)
+Amuck3184.B
+AN.512
+AN.512 Gen(1)
+Anad.725
+Anad.725.B
+Anarchy.1268
+Anarchy.300
+Anarchy.3153
+Anarchy.6093
+Anarchy.6093 (2)
+Anarchy.6093 (3)
+Anarchy.6503
+Anarchy.666
+ANDR.2900
+Andr.3568 (1)
+Andr.3568 (2)
+Andr.3568 (3)
+Andreew.805
+Andris (b)
+Andris.683
+Andris.843
+Android.Adflex
+Android.Adload
+Android.Bangcle
+Android.Blacklist
+Android.Cegasoar
+Android.Dandro
+Android.Disallowed
+Android.Dumpplug
+Android.Gaode
+Android.GappII
+Android.Goldeneagle
+Android.Gonfu.C
+Android.Gongxin
+Android.Jztapp
+Android.Kosat
+Android.Masterkey
+Android.Masterkey.B
+Android.Masterkey.C
+Android.Masterkey.FI
+Android.Minimob
+Android.Mobidash
+Android.Noiconads
+Android.Qmsg
+Android.Quanzhifu
+Android.Skypeads
+Android.Smstracker
+Android.Switcher
+Android.Torsend
+Android.TucySms
+Android.Widdit
+Android.Wifikill
+Android.Xinyinhe
+Android.ZZcollector
+Androide.995
+Andromeda.206
+Andromeda.370
+Andromeda.758
+Andromeda.800
+Andromeda.800 (2)
+Andromeda.800 (3)
+Andromeda.800.B
+Andromeda.D.1024
+Andryushka.3536 (2)
+Andryushka.3536 (3)
+Andryushka.3536 (4)
+Andryushka.3568 (1)
+Andryushka.3568 (2)
+Angela(b)
+Angels.1571
+Anger.395
+Angera.762
+Angry.393
+Ani (b)
+Animals.2400.a
+Animals.2400.b
+Animo.518
+Anna (Gen1)
+Anna (Gen1) (2)
+Anna.734
+Anna.734 Gen(1)
+Anni.809
+Annihilator Family(1)
+Annihilator Family(2)
+Annihilator Family(3)
+Annihilator Family(4)
+Annihilator.276
+Annihilator.298
+Annihilator.299
+Annihilator.305
+Annihilator.306
+Annihilator.314
+Annihilator.361
+Annihilator.383
+Annihilator.394
+Annihilator.416
+Annihilator.449
+Annihilator.548
+Annihilator.555
+Annihilator.596
+Annihilator.599
+Annihilator.603
+Annihilator.610
+Annihilator.673
+AnniVCS.807
+AnniVCS.866
+Annres.1052
+Annres.1053
+Annres.553
+Annres.972
+Anony.243
+Another World.707
+AnotherWorld.555
+AnotherWorld.645
+AnotherWorld.719
+ANSI.880
+AnsJovis.12695
+Anston.1782
+Anston.2169
+Answer.1146
+Answer.1153
+Anthrax (b)
+Anthrax (Gen1)
+Anthrax (x)
+ANTI B
+Anti-AV.907
+Anti-Aznar.664
+Anti-Aznar.666
+Anti-C.726
+Anti-Fortran.1110
+Anti-Heur.672
+Anti-Pascal.529
+Anti-Pascal.605
+Anti_Trace
+AntiArj
+Antiarj.313
+AntiArj.977
+AntiAVP.1235
+AntiAVP.930
+AntiAVP.gen
+AntiBase
+AntiBasic.351
+AntiCAD (b)
+AntiCAD.10000 (Gen1)
+AntiCAD.10000 (x)
+AntiCad.2224
+AntiCad.2224 (x)
+AntiCAD.2454
+AntiCAD.2454 (x)
+AntiCAD.2576
+AntiCAD.2576 (x)
+AntiCad.2646
+AntiCAD.2646 (x)
+AntiCAD.2900
+AntiCAD.2900 (1)
+AntiCAD.2900 (2)
+AntiCAD.2900 (x)
+AntiCAD.2900 (x1)
+AntiCad.3000 (1)
+AntiCad.3000 (2)
+AntiCAD.3004
+AntiCAD.3012
+AntiCAD.3012 (x)
+Anticad.3012.A
+AntiCAD.3088
+AntiCAD.4096 (1)
+AntiCAD.4096 (x1)
+AntiCAD.4096.B (2)
+AntiCAD.4096.B (x)
+AntiCAD.4096.Chi (x)
+Anticad.4096.D
+Anticad.4096.D (x)
+Anticad.4096.E
+Anticad.4096.E (x)
+Anticad.4096.F
+Anticad.4096.F (x)
+Anticad.4096.G
+Anticad.4096.G (x)
+Anticad.4096.H
+Anticad.4096.H (x)
+Anticad.4096.I
+Anticad.4096.I (x)
+Anticad.4096.J
+Anticad.4096.J (x)
+AntiCAD.4096.Mozart
+Anticad.Mozart.B
+Anticad.Mozart.B (x)
+Anticad.mp.4096.k (b)
+Anticheck
+Antichek.6016
+Antichek.6016 (2)
+AntiCMOS.613
+AntiCMOS.B
+Anticom
+Anticom.6747
+Anticom.8530
+ANTICOM.8535
+Antiem.2320
+Antieta.5297
+Antieta.5368
+ANTIEXE.A
+Antifor.1110
+AntiFort.1509
+AntiFort.1509 (1)
+Antifort.1723
+Antifort.1723 (2)
+Antifort.1723 (3)
+Antifort.1723 (b)
+Antifort.1725
+Antifort.1725 (2)
+Antifort.1725 (3)
+Antigus.1570
+Antilamer.Trojan
+AntiMit
+AntiMIT (Gen1)
+AntiMIT.764 (1)
+AntiMIT.764 (2)
+AntiMIT.764 Gen(1)
+AntiMon
+AntiPascal.400.D
+AntiPascal.400.E
+AntiPascal.400.G
+AntiPascal.440
+AntiPascal.440.C
+AntiPascal.583
+AntiPascal.653
+Antipass.971
+Antipode.1007
+Antipode.802
+AntiScan.1045
+AntiSkol.2111
+ANTIW.1342
+AntiWin.2305
+AntiWin.632
+Antiwin.633
+Antiwin.633.B
+AntiWin95 (b)
+AOD.385
+AOD.385 (2)
+AOL 79316.Trojan
+AOL Trojan 0797A (1)
+AOL Trojan 0797A (2)
+AOL Trojan 0797A (3)
+AOL Trojan 1
+AOL Trojan 1525
+AOL Trojan 2
+AOL Trojan 2351
+AOL Trojan 3
+AOL Trojan 4
+AOL Trojan 5
+AOL Trojan 6
+AOL Trojan 7
+AOL Trojan 8
+AOL Trojan 873
+AOL Trojan 9
+AOL Trojan 911
+AOL Trojan 958
+AOL Trojan 966
+AOL Trojan Winsyst
+AOL Trojan Winsyst 2
+AOL Trojan Winsyst 3
+AOL.Trojan (1)
+AOL.Trojan.1264
+AOL.Trojan.1294
+AOL.Trojan.BAT
+AOL.Trojan.Click
+AOL.Trojan.Click (2)
+AOL.Trojan.Click (3)
+AOL.Trojan.Click (4)
+AOS.1029
+AOS.339
+AOS.736
+AOS.794
+AOS.813
+AOS.823
+AOS.833
+AOS.841
+AOS.845
+AOS.846
+AOS.847
+AOS.848
+AOS.850
+AOS.852
+AOS.854
+AOS.856
+AOS.862
+AOS.MaryM.784
+AOS.MaryM.786
+AOS.MaryM.789
+AOS.MaryR.581
+AOS.Reaper.613
+AOS.Reaper.617
+AOS.Reaper.621
+AOS.Reaper.629
+AoTaun Trojan
+AP.A (b)
+AP.H (b)
+Apadana.1500
+Apadana.1500.B
+APE.Phant1.a
+APE.PHANT1.C
+APM.Greenstripe
+APM.Minimal
+APOC.1430
+Apocalipse
+Apocalipse (x)
+APPARAITION.7035
+Apparition
+APPARITION.4360
+APPARITION.4360 (1)
+Apparition.5959
+Apparition.7035
+Apparition.89021 (1)
+Apparition.9052
+Apparition.9258
+Apparition.A
+Apparition.B1(Gen1)
+Apparition.D
+Apparition.W95.B
+AppelSch (1)
+AppelSch (2)
+Appelscha.2161 (1)
+Appelscha.2161 (2)
+Appender.1210
+Apri1.1488
+April 1st
+April 1st (d)
+April Fool.615
+April Fool.797
+April.426
+April.748
+April.748(2)
+April_1st.942.b
+Apulia.17584
+Arab
+Arachnophobia
+Aragon
+Aragon (2)
+Aragon (b)
+Aragon dropper
+Aragorn
+Aragorn (x)
+Arai.A
+Arale (2)
+Arale (d1)
+Arara
+Arara (1)
+Arara (2)
+Arara (3)
+Arara (4)
+Arara (5)
+Arara (Gen1)
+Arara.1092
+Arara.1375
+Arara.1800
+Arch.5070
+Arch.903
+Archiver.1555
+Arcobale
+ARCV
+ARCV.1060 (1)
+ARCV.1060 (2)
+ARCV.1060 (x)
+ARCV.1060.Dropper
+ARCV.1947
+ARCV.255
+ARCV.746
+ARCV.773
+ARCV.800
+ARCV.968
+ARCV.Anna.745
+ARCV.Anna.745 Gen 1
+ARCV.Benoit
+ARCV.Benoit (Gen1)
+ARCV.Benoit (Gen1)(2)
+ARCV.Christmas.670
+ARCV.Evul.805
+ARCV.Evul.805(drp)
+ARCV.Friends
+ARCV.Ice-9
+ARCV.Ice-9.639.B
+ARCV.Ice.250
+ARCV.Ice.642
+ARCV.Ice.659
+ARCV.Jo
+ARCV.Joanna.A (1)
+ARCV.Kiss
+ARCV.Lurve.718
+ARCV.Lurve.718 (Gen1)
+ARCV.Lurve.718(G1)(2)
+ARCV.Made.334
+ARCV.more (Gen1)
+ARCV.more (Gen1) (2)
+ARCV.New Year
+ARCV.Payback
+ARCV.Payback Dropper
+ARCV.Reaper
+ARCV.Sandwich
+ARCV.Scroll
+ARCV.Scroll (Gen1)
+ARCV.Scroll (Gen1)(2)
+ARCV.Scythe
+ARCV.Two Minutes
+ARCV.X-2 (1)
+ARCV.X-2 (2)
+ARCV.X-2 (Gen1)
+ARCV.X-2 (Gen1) (2)
+ARCV.Xmas.670 (G1)(2)
+ARCV.Xmas.670 (Gen1)
+ARCV.Zaphod (Gen1)
+Aref.890
+Areg.822
+Areg.847
+Arequipa.1994
+AreThree.2048
+AreThree.2048 (b)
+AreThree.mp
+Arfav.28781
+Arg
+Argyle
+Argyle (1)
+Argyle (2)
+Argyle (3)
+Argyle (4)
+Argyle (5)
+Argyle (6)
+Argyle (Gen 1)
+Ari.1962
+Aria.3076
+Arianna.2864
+Arianna.2864 (b2)
+Arianna.2864 (b3)
+Arianna.3375 (b)
+Arianna.3426
+Arj Worm
+ArjDrop.402.A
+Arjworm.714
+Armageddon.dr
+Armagedon
+Armagedon.1079.C
+Armagedon.1079a
+Armagedon.501
+Armen.509
+Armenia.230
+ARSON.116
+Artic.1152
+Arusiek
+Arusiek (x)
+Arusiek.817
+Arya.4616
+Arya.4616 (b)
+Arya.4616 (x)
+Arya.4616.a (b)
+Asahi.1061
+ASBV (b)
+Asch.794
+ASCII.613
+Ascii.675
+Ascii.ow.613
+Ash
+Ash.1586
+Ash.1602
+Ash.1604
+Ash.245
+Ash.246
+Ash.270
+Ash.270.C
+Ash.280
+Ash.280.B
+Ash.281
+Ash.284
+Ash.333
+Ash.338
+Ash.376.A
+Ash.376.B
+Ash.441
+Ash.449
+Ash.449 (Gen1)
+Ash.451
+Ash.485
+Ash.712
+Ash.737
+Ash.743.A
+Ash.743.B (1)
+Ash.743.B (2)
+Ash.743.C
+Ash.743.D (1)
+Ash.743.E
+Ash.743.F
+Ash.743.G (1)
+Ash.743.H
+Ash.743.I
+Ash.743.K
+Ash.743.L
+Ash.817
+Ash.858
+Asim.cmp.1539
+Ask.532
+Aslf (b)
+Asmodeous
+Asmodeous.1450 (1)
+Asmodeous.1450 (2)
+Asmodeous.1829
+Asmodeus
+ASMvirus.431
+ASMvirus.431 (2)
+ASMvirus.433
+ASMvirus.433 (2)
+ASP.Silky
+Asparagus.768
+Assassin.4834
+Assassin.952
+Assassin.959
+Assassin.959 (2)
+Asscom (bat)
+Assembly Duplicator
+Assign.6539
+ASStral.753
+ASStral.753 (Gen1)
+Aster.744
+Asterisk
+Asterix.309
+Astra
+Astra.1010
+Astra.422
+Astra.441
+Astra.443
+Astra.7821
+Astra.841
+Astra.882
+Astra.927
+Astra.927 (1)
+Astra.976
+Astra.Child
+AstraSYS.472
+AstraSYS.472 Dropper
+AstraSYS.472 Dropper2
+AstraSYS.498
+AstraSYS.510
+AstraSYS.521
+AT II.108
+AT II.114
+AT II.118
+AT II.122
+AT.104
+AT.132
+AT.140.B
+AT.144.A
+AT.144.B
+AT.144.E
+AT.149
+AT.156
+AT.160
+AT.178
+Atas II.1268
+Atas II.3215
+Atas II.3233
+Atas II.3321
+Atas II.384
+Atas.1268
+Atas.3215
+Atas.3321
+Atas.384
+Atas.400
+Atb.1522
+ATB.1522.B
+ATCORP.321
+ATCorp.cav.363
+ATE.524
+ATE.524 Gen(1)
+Atenfor.2211
+Atenfor.2515
+Atmosphere.1070
+Atomant (1)
+Atomant.2143
+Atomic.371
+Atomic.480
+Atomic.Companion
+Att.629
+Attention.A
+Attention.C
+Attitude.343
+Attitude.724
+Attitude.825
+Augnight.1225
+Aurea.653
+Aurea.768 (1)
+Aurea.768 (2)
+Aus-Dinky.86
+AusIH.823
+Ausih.cmp.322
+Auspar.292
+Auspar.990
+Auspar.990 (Gen1)
+AussieBoy.147
+Aust.1014
+Aust.1014 (2)
+Aust.1033
+AusTerm
+Austin.1353
+Austr_Parasite.1179
+Austr_Parasite.205
+Austr_Parasite.231
+Austr_Parasite.254
+Austr_Parasite.254(2)
+Austr_Parasite.312.B
+Austr_Parasite.320
+Austr_Parasite.352
+Austr_Parasite.423
+Austr_Parasite.550.B
+Austr_Parasite.579
+Austr_Parasite.972
+Austr_Parasite.AMSV
+Austr_Parasite.Gotter
+Australian
+Australian.1000
+Australian.1007(Gen1)
+Australian.1024
+Australian.1050
+Australian.1179
+Australian.142/143
+Australian.150/153
+Australian.152
+Australian.153.B
+Australian.155
+Australian.163
+Australian.187
+Australian.213
+Australian.215
+Australian.217
+Australian.229
+Australian.306 (1)
+Australian.306 (2)
+Australian.368 (Gen1)
+Australian.369
+Australian.424
+Australian.424(2)
+Australian.440
+Australian.482
+Australian.482 (d1)
+Australian.543.A
+Australian.550
+Australian.588
+Australian.615
+Australian.726
+Australian.762 (1)
+Australian.784
+Australian.858
+Australian.990
+Australian.990 (2)
+Australian.990 (3)
+Australian.AMS
+Australian.Comic
+Australian.Elvis
+Australian.GOT
+Australian.Lipo
+Australian.VGA_Demo
+AustralianTiny.147
+AustralianTiny.162
+AustralianTiny.162 (2)
+Austrian Parasite.543
+Autumnal.3072
+Autumnal.3072 (b)
+Autur
+AvA.550
+AvA.600
+Avalanche.2812
+Avalanche.2816
+Avalanche.2816 (2)
+Avalanche.2818
+Avalanche.2820
+Avalanche.2831
+Avalanche.2908
+Avalgasil.666
+Avalon.814 (x)
+Avatar.Acid.674
+Avcs.268
+AVCS.268.b
+Avcs.270
+AVCS.273.a
+AVCS.273.b
+Avcs.275
+AVCS.276
+Avcs.288
+Avenger.1344
+Avenger.1344 (x)
+Avispa.2048.b
+Avispa.2048.d
+Avlanche.2531
+Avs.349
+AVV.2300
+Avvaddon.1100
+Awaits.500
+Awake.797
+AWME.1206
+AWME.1213
+AWME.1214
+AWME.1268
+AWME.Family
+AWVCK.154
+Awvck.180
+AWVCK.kit.gen
+Axe.1016
+Axe.884
+Axe.918
+Axe.974
+Aximus.423
+Aximus.423 (2)
+Axypt.1930.cmp
+Axypt.516.cmp
+AZ.492
+Azatoth.1141
+Azatoth.997
+Azboo (b)
+AZD Trojan
+!readme.exe
+!update.exe
+autorun.inf  
+fooool.exe
+sxs.exe 
+ravmonlog 
+msvcr71.dll 
+ie.exe 
+copy.exe 
+autorun.vbs 
+WSscript.exe 
+winfile.exe
+MusaLLat.exe
+activexdebugger32.exe 
+ahnsbsb.exe 
+amva.exe 
+amvo.exe 
+antivirusxp.exe 
+aspimgr.exe 
+autorun.exe 
+autorun.vbs.exe 
+avpo.exe 
+bittorrent.exe 
+command.exe 
+copy.exe 
+fooool.exe 
+herss.exe 
+host.exe
+is2010.exe 
+kamsoft.exe 
+kavo0.exe 
+kxvo.exe 
+meex.exe 
+next1.exe 
+next2.exe 
+next3.exe 
+nhbivui.exe 
+nodqq.exe 
+olhrwef.exe 
+oufddh.exe 
+quit.exe 
+r6r.exe 
+recycler.exe  
+semo2x.exe 
+sxs.exe 
+tavo.exe 
+hsr.dll
+sachook.dll
+sain.exe
+sau.dll
+sauhook.dll
+getst.exe
+main.exe
+plugin.dll
+whgue.exe
+ACMConfig.exe
+ACMDLL.dll
+ACMService.exe
+zsHook.dll
+actik.exe
+akeylogger.exe
+hidden.dll
+alaware.dll
+alogcfg.exe
+alogger.exe
+alsys.exe
+Emailer.dll
+LogExp.dll
+mfc.dll
+msvcrt.dll
+slgrl.dll
+swkbhkl.dll
+ActualSpy.exe
+hprog.dll
+\AdStatComm.dll
+cliner.exe
+finddll.dll
+mailbook.exe
+mailbookproxy.dll
+mydll.dll
+nndll.dll
+nndll.dll
+spredirect.dll
+updater.exe
+updaterproxy.dll
+as.exe
+AppsTraka.exe
+unins.exe
+Archive.exe
+il.dll
+kh.dll
+Stb.exe
+VFX.-.exe
+kbhook.dll
+kl.exe
+klkernel.exe
+Autosearch.dll
+AutoUpdate.exe
+ActiveWin.exe
+Bar.exe
+BazookaBar.exe
+RegMfc.exe
+userstararticsbar.dll
+class.exe
+Console.exe
+integ.dll
+Ldll.dll
+sysclass.dll
+adblck.dll
+adblck.exe
+BABarWnd.dll
+blckbho.dll
+blckhk.dll
+bp.exe
+bptlb.dll
+breg_inst.exe
+btv.exe
+btvclean.exe
+Blpref.exe
+adv.exe
+adx.exe
+casstub.exe
+casmf.dll
+Catcher.dll
+BrowserSpy.dll
+SciLexer.dll
+csAOLinst.DLL
+CSIE.dll
+CSIEINST.dll
+csLDRupdater.DLL
+ClearSearch\CSP.exe
+Delete me.exe
+cmappclient.exe
+cmappmf.dll
+cmappstub.exe
+cnalvin.exe
+cnalvwsi.exe
+IDriver.exe
+IScript.dll
+Intel \ISRT.dll
+IUser.dll
+objps.dll
+_ISRES.dll
+breg.exe
+Blaim.dll
+Bldll.exe
+Blengine.dll
+Blengine.exe
+services.exe
+mssrv.exe
+updmgr.exe
+cwebpage.dll
+dtsview.dll
+dtsview.exe
+svcagnt.exe
+Config.exe
+DSPY.exe
+UNWISE.EXE
+iebhos.dll
+eiafasrk.dll
+eitcwd.exe
+eitwmon.exe
+esyn.dll
+Evol.exe
+fftoolbar.dll
+WinDeBug.exe
+freeMovies.exe
+hamemov.exe
+syssmss.exe
+Systrsy.exe
+inetmgr.exe
+abckey.dll
+forgotpass.exe
+keytrial.exe
+keykey.exe
+kkmon.exe
+slman.exe
+slview.exe
+IEToolBar.dll
+mch.exe
+MediaAccC.dll
+WWE DIVAS.exe
